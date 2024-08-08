@@ -1,0 +1,16 @@
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\Cjva2Application.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\config\ApplicationConfig.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\config\CorsConfig.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\config\SecurityConfig.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\controllers\CustomerController.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\controllers\MovieController.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\controllers\TVShowController.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\models\Customer.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\models\Movie.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\models\TVShow.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\repositories\CustomerRepository.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\repositories\MovieRepository.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\repositories\TVShowRepository.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\services\CustomerService.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\services\MovieService.java
+D:\SC\2\CJV\CJV_A2\cjva2\src\main\java\com\example\cjva2\services\TVShowService.java

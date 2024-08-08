@@ -1,0 +1,17 @@
+com\example\cjva2\repositories\CustomerRepository.class
+com\example\cjva2\repositories\TVShowRepository.class
+com\example\cjva2\config\SecurityConfig.class
+com\example\cjva2\services\MovieService.class
+com\example\cjva2\controllers\CustomerController.class
+com\example\cjva2\models\TVShow.class
+com\example\cjva2\models\Customer.class
+com\example\cjva2\models\Movie.class
+com\example\cjva2\services\TVShowService.class
+com\example\cjva2\services\CustomerService.class
+com\example\cjva2\config\ApplicationConfig.class
+com\example\cjva2\repositories\MovieRepository.class
+com\example\cjva2\config\CorsConfig.class
+com\example\cjva2\Cjva2Application.class
+com\example\cjva2\controllers\TVShowController.class
+com\example\cjva2\controllers\LoginRequest.class
+com\example\cjva2\controllers\MovieController.class
